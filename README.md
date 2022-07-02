@@ -35,14 +35,16 @@ Will be updated once stable!
 
 
 # Original repository
-This repository is a substantial modification of the original work by:
+
+This repository is a substantial modification or arxivscraper. Given the major modifications I created a new repo for the project.
+
+The the original work by:
 
 * **Mahdi Sadjadi**, 2017.
 * Website: [mahdisadjadi.com](http://mahdisadjadi.com)
 * Twitter: [@mahdisadjadi](http://twitter.com/MahdiSadjadi)
 
 Original repo: [arxivscraper](https://github.com/mahdisadjadi/arxivscraper)
-
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.889853.svg)](https://doi.org/10.5281/zenodo.889853)
 ![](https://github.com/mahdisadjadi/arxivscraper/workflows/CI/badge.svg)
